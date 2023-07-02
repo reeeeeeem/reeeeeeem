@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Reem, a passionate Full stack developer<br>I have a strong passion for web development with responsive designs.<br>I also bake when I want to unwind.
+Hello, I am Reem, a passionate Full stack developer👾<br>I have a strong passion for web development with responsive designs.<br>I also bake when I want to unwind.
 
 
 ## 🌐 Socials:
